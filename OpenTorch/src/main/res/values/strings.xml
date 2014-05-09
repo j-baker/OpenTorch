@@ -29,7 +29,6 @@
 <resources>
 
     <string name="app_name">OpenTorch</string>
-    <string name="action_settings">Settings</string>
     <string name="debug_light_on">Flash turned on</string>
     <string name="debug_light_off">Flash turned off</string>
     <string name="debug_camera_error">Could not get camera, or device has no flash.</string>
